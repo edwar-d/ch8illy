@@ -17,6 +17,7 @@ Hobbies:
   - sleep
 
 Manga rnw: Hitori no Shita
+Wanna read: Sora no Aosa wo Shiru Hito yo
 Sry for the low res pfp
 
 ```
