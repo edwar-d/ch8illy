@@ -14,7 +14,7 @@ Hobbies:
   - read manga :)
   - code stuff
   - game
-  - sleep
+  - ![#f03c15](sleep) `#f03c15`
 
 Manga rnw: Hitori no Shita
 Wanna read: Sora no Aosa wo Shiru Hito yo
