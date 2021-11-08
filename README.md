@@ -1,4 +1,25 @@
-### Hi there 👋
+### Vegan Burg
+
+<img align="right" alt="a" width="300px" height="300px" src="https://raw.githubusercontent.com/VeganBurg/VeganBurg/main/assets/cherrytree.png" />
+
+```yaml
+useris: VeganBurg
+nick: slez
+contact: Slez#8071
+
+My life consists of school sleep math
+and programming
+
+Hobbies:
+  - read manga :)
+  - code stuff
+  - game
+  - sleep
+
+Manga rnw: Hitori no Shita
+Sry for the low res pfp
+
+```
 
 <!--
 **VeganBurg/VeganBurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
