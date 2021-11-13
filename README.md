@@ -1,6 +1,6 @@
 ### Vegan Burg
 
-<img align="right" alt="a" width="300px" height="300px" src="https://raw.githubusercontent.com/VeganBurg/VeganBurg/main/assets/cherrytree.png" />
+<img align="right" alt="a" width="300px" height="300px" src="https://raw.githubusercontent.com/VeganBurg/VeganBurg/main/assets/peace.gif" />
 
 ```yaml
 useris: VeganBurg
