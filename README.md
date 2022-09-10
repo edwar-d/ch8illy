@@ -1,5 +1,3 @@
-### Vegan Burg
-
 <img align="right" alt="a" width="800px" height="500px" src="https://raw.githubusercontent.com/d4mmit/d4mmit/main/assets/sleep-resting.gif"/>
 
 <!-- ```yaml
