@@ -1,6 +1,6 @@
 ### Vegan Burg
 
-<img align="right" alt="a" width="360px" height="202px" src="https://raw.githubusercontent.com/d4mmit/d4mmit/main/assets/tea-coffee.gif" />
+<img align="right" alt="a" width="300px" height="300px" src="https://raw.githubusercontent.com/d4mmit/d4mmit/main/assets/tea-coffee.gif" />
 
 ```yaml
 i just wanna sleep...
