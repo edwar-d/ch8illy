@@ -1,10 +1,10 @@
 ### Vegan Burg
 
-<img align="right" alt="a" width="800px" height="500px" src="https://raw.githubusercontent.com/d4mmit/d4mmit/main/assets/tea-coffee.gif" />
+<img align="right" alt="a" width="800px" height="500px" src="https://raw.githubusercontent.com/d4mmit/d4mmit/main/assets/tea-coffee.gif"/>
 
-```yaml
+<!-- ```yaml
 i just wanna sleep... ;-;
-``` 
+```  -->
 
 <!--
 **VeganBurg/VeganBurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
