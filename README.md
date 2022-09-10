@@ -1,7 +1,8 @@
 ### Vegan Burg
 
-<img align="right" alt="a" width="300px" height="300px" src="https://raw.githubusercontent.com/VeganBurg/VeganBurg/main/assets/peace.gif" />
+<img align="right" alt="a"src="https://raw.githubusercontent.com/VeganBurg/VeganBurg/main/assets/peace.gif" />
 
+<!-- 
 ```yaml
 useris: VeganBurg
 nick: slez
@@ -19,7 +20,7 @@ Hobbies:
 Manga rnw: Hitori no Shita
 Wanna read: Sora no Aosa wo Shiru Hito yo
 Sry for the low res pfp
-```
+``` -->
 
 <!--
 **VeganBurg/VeganBurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
