@@ -1,6 +1,6 @@
 ### Vegan Burg
 
-<img align="right" alt="a"src="https://raw.githubusercontent.com/VeganBurg/VeganBurg/main/assets/peace.gif" />
+<img align="right" alt="a"  src="https://raw.githubusercontent.com/d4mmit/d4mmit/main/assets/sleepppp.gif" />
 
 <!-- 
 ```yaml
