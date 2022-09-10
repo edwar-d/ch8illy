@@ -1,26 +1,10 @@
 ### Vegan Burg
 
-<img align="right" alt="a"  src="https://raw.githubusercontent.com/d4mmit/d4mmit/main/assets/sleepppp.gif" />
+<img align="right" alt="a" width="360px" height="202px" src="https://raw.githubusercontent.com/d4mmit/d4mmit/main/assets/sleepppp.gif" />
 
-<!-- 
 ```yaml
-useris: VeganBurg
-nick: slez
-contact: Slez#8071
-
-My life consists of school sleep math
-and programming
-
-Hobbies:
-  - read manga :)
-  - code stuff
-  - game
-  - sleep
-
-Manga rnw: Hitori no Shita
-Wanna read: Sora no Aosa wo Shiru Hito yo
-Sry for the low res pfp
-``` -->
+i just wanna sleep...
+``` 
 
 <!--
 **VeganBurg/VeganBurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
