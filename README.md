@@ -1,4 +1,8 @@
-<img align="right" alt="a" width="800px" height="500px" src="https://raw.githubusercontent.com/d4mmit/d4mmit/main/assets/programming-computer-frog.gif"/>
+
+
+```yaml
+Programming be like: ```
+<img align="right" alt="a" width="800px" height="500px" src="https://raw.githubusercontent.com/d4mmit/d4mmit/main/assets/source.gif"/>
 
 <!-- ```yaml
 i just wanna sleep... ;-;
