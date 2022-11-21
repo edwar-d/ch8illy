@@ -4,7 +4,7 @@
 Programming be like:
 ```
 
-<img align="right" alt="a" width="800px" height="500px" src="https://raw.githubusercontent.com/d4mmit/d4mmit/main/assets/source.gif"/>
+<img align="right" alt="a" width="800px" height="500px" src="https://raw.githubusercontent.com/d4mmit/d4mmit/main/assets/family-guy-peter-griffin.gif"/>
 
 <!-- ```yaml
 i just wanna sleep... ;-;
